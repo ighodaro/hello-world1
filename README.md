@@ -1,2 +1,2 @@
 # hello-world1
-this is a relearning of git hoe
+My Name is Nosa and im trying to learn programming from a third world country yikes 
